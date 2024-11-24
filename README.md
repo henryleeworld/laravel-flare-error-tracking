@@ -1,4 +1,4 @@
-# Laravel 10 Flare 錯誤追蹤
+# Laravel 11 Flare 錯誤追蹤
 
 Flare 是一個為 Laravel 客製化的異常情況追蹤，它可以幫助你花更多的時間修復錯誤，而減少發現它們的時間，且方便在同一個地方追蹤所有 PHP 和 JavaScript 錯誤。
 
@@ -24,11 +24,11 @@ $ php artisan flare:test
 - 你可以經由 `/debug` 來進行錯誤例外觸發。
 
 ## 畫面截圖
-![](https://i.imgur.com/Ch0vBGi.png)
+![](https://i.imgur.com/Y2z6USP.png)
 > 測試 Flare 配置
 
-![](https://i.imgur.com/YY0Ez9t.png)
+![](https://i.imgur.com/rxiF3zl.png)
 > 觸發錯誤例外以中斷程式流程
 
-![](https://i.imgur.com/n2Ip0EG.png)
+![](https://i.imgur.com/QDTaLb6.png)
 > 使用 Flare 確認程式錯誤的偵測
